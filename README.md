@@ -1,7 +1,7 @@
 # facebook_group_scrapper
 A python script to download all posts, comments, reactions and images from a Facebook group
 
-##How to use
+## How to use
 Follow these steps
 1. Rename the file 'config.default.ini' to 'config.ini'
 1. Edit this file to include your Facebook username and password
@@ -11,9 +11,9 @@ Follow these steps
 1. Extracted data will be placed at 'data/extracted_data.json'
 1. The 'download' folder is temporary. You can delete it after the scrapping job finishes
 
-##Dependencies
+## Dependencies
 This script requires:
-*. Python 3.8
-*. [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
-*. [Selenium](https://selenium-python.readthedocs.io/installation.html)
+* Python 3.8
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
+* [Selenium](https://selenium-python.readthedocs.io/installation.html)
 
